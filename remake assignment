@@ -3,11 +3,7 @@ class PupilCheckingSystem:
         self.pupils = {}
 
     def main_menu():
-        print("Main Menu:")
-        print("1. Report")
-        print("2. Admin")
-        print("3. Exit")
-
+        Print.md
     def admin_menu(self):
         while True:
             print("ADMIN MENU")
